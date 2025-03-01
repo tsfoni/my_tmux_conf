@@ -1,6 +1,7 @@
 **Dont forget**
 ```bash
 ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local ~
 chmod +x -R .tmux
 ```
 
