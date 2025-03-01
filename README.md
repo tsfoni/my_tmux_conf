@@ -1,6 +1,7 @@
 **Dont forget**
 ```bash
 ln -s -f .tmux/.tmux.conf
+chmod +x -R .tmux
 ```
 
 Bindings
